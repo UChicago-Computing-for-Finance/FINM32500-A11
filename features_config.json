@@ -1,11 +1,12 @@
 {
     "features": [
-        "return_1d",
-        "return_3d",
-        "return_5d",
+        "return_lag_1",
+        "return_lag_3",
+        "return_lag_5",
         "sma_5",
         "sma_10",
-        "rsi_14",
+        "sma_20",
+        "rsi",
         "macd"
     ],
     "label": "direction"
